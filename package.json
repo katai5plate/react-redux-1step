@@ -1,0 +1,15 @@
+{
+  "name": "react-redux-1step",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/katai5plate/react-redux-1step",
+  "author": "katai5plate <katai5plate.sub@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  }
+}
